@@ -13,7 +13,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: x038xx77/x038xx77@v1
+      uses: x038xx77/x038xx77
       with:
         token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
