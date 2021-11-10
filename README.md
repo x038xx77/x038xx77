@@ -1,4 +1,8 @@
-#Welcome!
+<h4 align="center">
+  <img alt="Welcome!" src="common-readme.png">
+</h4>
+
+
 - 👋 Hi, I’m @x038xx77
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
