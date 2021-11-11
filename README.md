@@ -1,9 +1,7 @@
-<h1 align="center">Welcome!
-  <img alt="Welcome!" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-</h1>
-
-## 💞️ Hi, I’m Pavel Lavrentev 
-### I'm _Software_ Engineer
+# Welcome! <img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:)<br> 💞️ I’m Pavel Lavrentev
+<!-- <h1 align="center">Welcome!<img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br> -->
+ 
+### _Software_ Engineer
 ![](https://komarev.com/ghpvc/?username=x038xx77)<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pavel_Lavrentev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Pavel_Lavrentev)
 
@@ -22,7 +20,7 @@
 ### 📕 My projects
 *   [vip😍cilia.tk](https://vip😍cilia.tk) - Service cilia
 *   [❤️dom.tk](https://xn--dom-3r6a.tk/) - Rent
-*   [1e9USD](https://1e9usd.com) - Published platform `light-code`
+*   [1e9USD.com](https://1e9usd.com) - Published platform `light-code`
 *   [Checkitout](https://play.google.com/store/apps/details?id=ru.rublt.checkitout) - mobail App
 
 ### 🔒 Secret Platforms
