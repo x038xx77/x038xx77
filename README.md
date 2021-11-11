@@ -1,5 +1,5 @@
-<h1 align="center">W e l c o m e!
-  <img alt="Welcome!" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Welcome!
+  <img alt="Welcome!" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 </h1>
 
 ## 💞️ Hi, I’m Pavel Lavrentev 
