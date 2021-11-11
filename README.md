@@ -20,8 +20,8 @@
 ### 📕 My projects
 *   [vip😍cilia.tk](https://vip😍cilia.tk) - Service cilia, which provides user to book appointment with another.
 *   [❤️dom.tk](https://xn--dom-3r6a.tk/) - Rent. You will find the available purchasing options rental.
-*   [1e9USD.com](https://1e9usd.com) - Published platform `light-code. Specializes in creative projects with robust reward level feature. Payment acceptance system all card. Pay and get paid, hassle-free.
-*   [Checkitout](https://play.google.com/store/apps/details?id=ru.rublt.checkitout) - mobail App for create and checking reviews. Find something memorable, join a community doing good.
+*   [<img alt="1e9usd.com" src="logo_txt_color_1.png" width="70px">](https://1e9usd.com)  Published platform `light-code`. Specializes in creative projects with robust reward level feature. Payment acceptance system all card. Pay and get paid, hassle-free.
+*   [<img alt="chekitout" src="icon_checkinapp.png" width="70px">](https://play.google.com/store/apps/details?id=ru.rublt.checkitout) - mobail App for create and checking reviews. Find something memorable, join a community doing good.
 
 ### 🔒 Secret Platforms
 
