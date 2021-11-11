@@ -1,17 +1,16 @@
 <h1 align="center">W e l c o m e!
   <img alt="Welcome!" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 </h1>
 
 ## 💞️ Hi, I’m Pavel Lavrentev 
 ### I'm _Software_ Engineer
-![](https://komarev.com/ghpvc/?username=x038xx77)
+![](https://komarev.com/ghpvc/?username=x038xx77)<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pavel_Lavrentev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Pavel_Lavrentev)
 
 - 👀 I’m interested in ~~frontend~~ backend, Full stack developer and mobile development 
 - 🌱 I’m currently learning __Async programming, Superservices, shild AWS, Flutter, Design Patterns__
 - 👋 I’m looking to collaborate on rainbow core
-- 📫 How to reach me <a href='mailto:x038xx77@gmail.com'>x038xx77@gmail.com</a></p>
+- 📫 How to reach me <a href='mailto:support@1e9usd.com'>support@1e9usd.com</a></p>
 
 ## Social 📱:
 [<img align="left" width="32px" alt="x038xx77 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
