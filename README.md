@@ -22,7 +22,7 @@
 *   [❤️dom.tk](https://xn--dom-3r6a.tk/) - Rent. You will find the available purchasing options rental.
 *   [<img alt="1e9usd.com" src="logo_txt_color_1.png" width="70px">](https://1e9usd.com)  Published platform `light-code`. Specializes in creative projects with robust reward level feature. Payment acceptance system all card. Pay and get paid, hassle-free.
 *   [<img alt="chekitout" src="icon_checkinapp.png" width="70px">](https://play.google.com/store/apps/details?id=ru.rublt.checkitout) - mobile App for create and checking reviews. Find something memorable, join a community doing good.
-*   [<img alt="SpaceX038i" src="logo_spacex038i.png" width="70px">](https://Spacex038i.tk)paceX038i - it learning platform.
+*   [<img alt="SpaceX038i" src="menu_logoSpaceX038i.png" width="70px">](https://Spacex038i.tk)paceX038i - it learning platform.
 
 ### 🔒 Secret Platforms
 
