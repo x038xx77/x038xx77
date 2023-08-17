@@ -41,14 +41,6 @@
 
 ### Small stats:
 
-<p align='center'>
- <a href="https://github-readme-stats.vercel.app/api?username=x038xx77&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=x038xx77&show_icons=true&count_private=true&theme=radical"/></a>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=x038xx77&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=x038xx77&count_private=true&layout=compact"/></a>
- <details>
-  <summary>dop GitHub Stats</summary>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=x038xx77"><img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=x038xx77"/></a>
-</details>
-
 area|space|field
 |:----|:--|:----|
 🔥|🌎|🇷🇺 
