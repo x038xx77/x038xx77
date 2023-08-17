@@ -1,7 +1,7 @@
 # Welcome! <img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:)<br> 🛠️ I’m Pavel Lavrentev 🚀
 <!-- <h1 align="center">Welcome!<img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br> -->
  
-### _Full Stack SRE_ Engineer
+### _Full Stack, SRE_ Engineer
 ![](https://komarev.com/ghpvc/?username=x038xx77)<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pavel_Lavrentev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Pavel_Lavrentev)
 
