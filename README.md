@@ -1,14 +1,14 @@
-# Welcome! <img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:)<br> 💞️ I’m Pavel Lavrentev
+# Welcome! <img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:)<br> 🛠️ I’m Pavel Lavrentev 🚀
 <!-- <h1 align="center">Welcome!<img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br> -->
  
-### _Software_ Engineer
+### _Full Stack SRE_ Engineer
 ![](https://komarev.com/ghpvc/?username=x038xx77)<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pavel_Lavrentev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Pavel_Lavrentev)
 
 - 👀 I’m interested in ~~frontend~~ backend, Full stack developer and mobile development 
-- 🌱 I’m currently learning __Async programming, Superservices, shild AWS, Flutter, Design Patterns__
+- 🌱 I’m currently diving __into the realms of Full Stack, exploring the wonders of Superservices, mastering the art of shield AWS, unraveling the magic behind SRE, and weaving the intricate threads of Design Patterns into my skill tapestry. 🚀💡__
 - 👋 I’m looking to collaborate on rainbow core
-- 📫 How to reach me <a href='mailto:support@1e9usd.com'>support@1e9usd.com</a></p>
+- 📫 How to reach me <a href='mailto:support@1e9usd.com'>hello@spacex038i.tk</a></p>
 
 ### Social 📱:
 [<img align="left" width="32px" alt="x038xx77 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,8 +18,11 @@
 
 ---
 ### 📕 My projects
-*   [vip😍cilia.tk](https://vip😍cilia.tk) - Service cilia, which provides user to book appointment with another.
-*   [❤️dom.tk](https://xn--dom-3r6a.tk/) - Rent. You will find the available purchasing options rental.
+*   [lavrentev.tk](https://lavrentev.tk) - Стройте ягоды. Создай свой бесплатный интернет-магазин с легкостью! Продавай, привлекай, процветай!
+*   [store.lavrentev.tk](https://store.lavrentev.tk) - Online Store.
+*   [Buildberries.tk](https://buildberries.tk) - Craft Your Free Online Store Effortlessly! Sell, Attract, Thrive!.
+*   [vip😍cilia.tk](https://sx038i.pythonanywhere.com) - Service cilia, which provides user to book appointment with another.
+*   [❤️dom.tk](https://homezen.pages.dev/) - Rent. You will find the available purchasing options rental.
 *   [<img alt="1e9usd.com" src="logo_txt_color_1.png" width="70px">](https://1e9usd.com)  Published platform `light-code`. Specializes in creative projects with robust reward level feature. Payment acceptance system all card. Pay and get paid, hassle-free.
 *   [<img alt="chekitout" src="icon_checkinapp.png" width="48px">](https://play.google.com/store/apps/details?id=ru.rublt.checkitout) - mobile App for create and checking reviews. Find something memorable, join a community doing good.
 *   [<img alt="SpaceX038i" src="menu_logoSpaceX038i.png" width="16px">paceX038i](https://Spacex038i.tk) - it learning platform.
