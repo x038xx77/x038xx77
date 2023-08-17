@@ -1,13 +1,13 @@
 # Welcome! <img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:)<br> 🛠️ I’m Pavel Lavrentev 🚀
 <!-- <h1 align="center">Welcome!<img alt="Welcome!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br> -->
  
-### _Full Stack, SRE_ Engineer
+### _Full Stack, SR_ Engineer
 ![](https://komarev.com/ghpvc/?username=x038xx77)<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pavel_Lavrentev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Pavel_Lavrentev)
 
 - 👀 I’m interested in ~~frontend~~ backend, Full stack developer and mobile development 
 - 🌱 I’m currently diving __into the realms of Full Stack, exploring the wonders of Superservices, mastering the art of shield AWS, unraveling the magic behind SRE, and weaving the intricate threads of Design Patterns into my skill tapestry. 🚀💡__
-- 👋 I’m looking to collaborate on rainbow core
+- 👋 I’m the digital architect of reliability, the guardian of seamless experiences. SRE magician at your service! ✨🛠️
 - 📫 How to reach me <a href='mailto:support@1e9usd.com'>hello@spacex038i.tk</a></p>
 
 ### Social 📱:
